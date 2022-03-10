@@ -41,6 +41,10 @@ h2 {
 <html>
 <head>
 <style>
+    hr
+    {background-color: #000000;
+        height: 30px;
+    }
 h1 {text-align: center;}
 h3 {text-align: center;}
 h2 {text-align: center;}
