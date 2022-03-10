@@ -9,6 +9,12 @@
 h1 {font-size: 80px;}
 h3 {font-size: 30px;}
 p {font-size: 15px;}
+h2 {
+  outline: 5px solid white;
+}
+
+
+
 
 </style>
 </head>
@@ -24,9 +30,10 @@ p {font-size: 15px;}
     <img src="https://i.pinimg.com/originals/92/3a/21/923a2151ce624bd50199a6d77d418802.gif" align="right" height="300" widht="300">
     
 <h1 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"> Bästa saker man kan bygga i slöjden </h1>
-<h2 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"> Gjord av mister Elias AsplOnd</h2>
 <p style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"> "Denna hemsida kommer handla om  S L Ö J D" </p>
-<p style="color:rgb(218, 255, 253);"> _ </p>
+
+<hr style="width:55%">
+
 <p style="color:rgb(218, 255, 253);"> _ </p>
 <p style="color:rgb(218, 255, 253);"> _ </p>
 </body>
@@ -38,6 +45,7 @@ h1 {text-align: center;}
 h3 {text-align: center;}
 h2 {text-align: center;}
 p {text-align: center;}
+
 </style>
 </html>
 </html>
@@ -77,3 +85,56 @@ img {
      <h3 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"> Här kan du se hur man har byggt en mycket fin 
     trä bricka, denna är gjort i det finaste träet, denna kan bli din om du har kraften till att skapa den! 9,5 av 10 får den! </h3>
      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+    <p style="color:rgb(218, 255, 253);"> _ </p>
+
+
+
+
+    
+    <img src="https://c.tenor.com/PaAlITkRuWYAAAAi/frog-crazy.gif" align="left" height="100" widht="100" >
+    <img src="https://c.tenor.com/PaAlITkRuWYAAAAi/frog-crazy.gif" align="right" height="100" widht="100" >
+    <h2 id="example4"   > Hemsida gjord av mister Elias Mannen</h2>
+    
